@@ -1,6 +1,6 @@
 # 💻 Galeria de Fotos com Bootstrap
 
-Projeto criado para o curso Web Moderno da Cod3r. Foram usado
+Projeto criado para o curso Web Moderno da Cod3r.
 
 ## 🚀 Esse projeto foi desenvolvido com as seguintes tecnologias
 
