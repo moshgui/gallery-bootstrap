@@ -6,6 +6,7 @@ Projeto criado para o curso Web Moderno da Cod3r. Foram usado
 
 - HTML
 - CSS
+- Bootstrap
 - Javascript
 - JQuery
 - Ajax
